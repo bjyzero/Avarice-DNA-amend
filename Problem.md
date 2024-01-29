@@ -35,3 +35,34 @@ ACGTC
 
 ### 样例说明
 
+将第二条 DNA 序列中的第一个和第四个碱基交换，将第二个和第三个碱基交换即可完成全部配对，共操作两次。  
+
+### 运行限制
+
+<table>
+  <th>
+    <tr>语言</tr>
+    <tr>最大运行时间</tr>
+    <tr>最大运行内存</tr>
+  </th>
+  <th>
+    <tr>C++</tr>
+    <tr>1s</tr>
+    <tr>128M</tr>
+  </th>
+  <th>
+    <tr>C</tr>
+    <tr>1s</tr>
+    <tr>128M</tr>
+  </th>
+  <th>
+    <tr>Java</tr>
+    <tr>2s</tr>
+    <tr>128M</tr>
+  </th>
+  <th>
+    <tr>Python3</tr>
+    <tr>3s</tr>
+    <tr>128M</tr>
+  </th>
+</table>
