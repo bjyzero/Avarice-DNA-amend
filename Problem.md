@@ -47,7 +47,7 @@ ACGTC
   </tr>
   <tr>
     <th>C++</th>
-    <th>>1s</th>
+    <th>1s</th>
     <th>128M</th>
   </tr>
   <tr>
