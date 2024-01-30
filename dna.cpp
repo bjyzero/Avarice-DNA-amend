@@ -1,3 +1,4 @@
+//该代码为使用贪心的方法
 #include <bits/stdc++.h>
 using namespace std;
 
