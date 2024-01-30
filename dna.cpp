@@ -5,10 +5,8 @@ using namespace std;
 int main(void)
 {
     ios::sync_with_stdio(0), cin.tie(0), cout.tie(0);
-    int n;
-    cin >> n;
-    string s1, s2;
-    cin >> s1 >> s2;
+    int n; cin >> n;
+    string s1, s2; cin >> s1 >> s2;
 
     //这里把第一个DNA序列变成互补后的样子，后续直接 '==' 即可，不用分情况讨论
     for (int i = 0; i < n; ++i)
